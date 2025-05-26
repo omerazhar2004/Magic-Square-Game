@@ -15,7 +15,7 @@ Java | Object-Oriented Programming | Algorithm Design | Error Handling | Softwar
 ### **Installation & Usage**  
 #### **Clone the repository:**  
 ```sh
-git clone https://github.com/omerazhar2004/Magic-Square-Game.git
+git clone https://github.com/omerazhar2004/Magic-Square-Game
 cd Magic-Square-Game
 ```
 #### **Compile and run the program:**  
